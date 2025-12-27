@@ -37,23 +37,8 @@ PyTorch • Hugging Face Spaces • Gradio • scikit-learn • Python
 - Grouped 191 job titles → 21 categories
 - Proper train/test split pipeline
 
-## Local Development
-```bash
-git clone https://github.com/lisatran183/salary-prediction.git
-pip install -r requirements.txt
-python app.py
-```
-
 ## Why Share This?
 
 Real learning means understanding what didn't work. This project shows I can deploy ML models, understand the gap between technical functionality and business value, and critically evaluate my own work.
-
-## Author
-
-**Lisa Tran** | Master's in Analytics, Northeastern University | 4.0 GPA | Graduating March 2026
-
-📧 thaotranthuynhu@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/lisa-tran-analytics/) | 💻 [GitHub](https://github.com/lisatran183)
-
----
 
 **Acknowledgments:** [Dataset](https://www.kaggle.com/datasets/mohithsairamreddy/salary-data) • [Tutorial](https://machinelearningmastery.com/building-a-regression-model-in-pytorch/)
