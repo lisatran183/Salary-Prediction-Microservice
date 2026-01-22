@@ -4,7 +4,7 @@ A PyTorch-based ML application that predicts employee salaries. Built to learn e
 
 **Note: Learning project with known limitations.**
 
-🔗 **Live Demo**: [https://lisatran183-salary-prediction.hf.space/](https://lisatran183-salary-prediction.hf.space/)
+**Live Demo**: [https://lisatran183-salary-prediction.hf.space/](https://lisatran183-salary-prediction.hf.space/)
 
 ## What This Demonstrates
 
