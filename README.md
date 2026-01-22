@@ -1,4 +1,4 @@
-# Salary-Prediction-Microservice
+# Salary-Prediction-Model
 
 A PyTorch-based ML application that predicts employee salaries. Built to learn end-to-end model deployment from training to production service. 
 
